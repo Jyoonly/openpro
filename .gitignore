@@ -1,3 +1,9 @@
+.DS_Store
+kordic/.DS_Store
+kcndic/.DS_Store
+
 /openproenv
 /kordic/asset
 /kcndic/asset
+/kordic/result
+/kcndic/result
